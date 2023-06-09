@@ -85,8 +85,15 @@
       "formulario red_social"
     }
 
-    .formulario .logoformulario a{
-       position: center;
+    .formulario .logoFormulario{
+      padding: 26px;
+    }
+
+    .formulario .logoFormulario a{
+      font-weight: bold;
+      font-size: 1em;
+      margin-left: 20px;
+      position: center;
 
     }
 

@@ -93,8 +93,9 @@
     } 
     
     .hero .info_contacto{
-    padding: 5px;
-    width: 280px;
+      margin-top: 300px;
+      padding: 5px;
+      width: 280px;
     }
    .hero .info_contacto .info_whatsapp{
     margin-left: 0px;

@@ -40,6 +40,7 @@ body {
     text-decoration: none;
     color: black;
     cursor: pointer;
+    font-weight: bold;
   }
 .navbar a:hover {
     color: #fff;
@@ -69,7 +70,7 @@ body {
     
     background-color: #9dd1c1;
     color:#181818;
-    padding: 26px;
+    padding: 21px;
 }
 .formulario .logoFormulario span{
     margin-right: 15px;
@@ -84,7 +85,9 @@ body {
     text-decoration: none;
     color: black;
     cursor: pointer;
-    font-weight: bolder;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left: 190px;
 }
 
   
